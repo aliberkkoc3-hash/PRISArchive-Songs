@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "FINALE",
+  "titleAsset": "storymenu/titles/weekf",
+  "props": [],
+  "background": "#FFFFFF",
+  "songs": ["finale"],
+  "visible": false
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "=)",
+  "titleAsset": "storymenu/titles/weekmegalo",
+  "props": [],
+  "background": "#F00",
+  "songs": [
+    "megalo-strike-back"
+  ],
+  "visible": false
+}

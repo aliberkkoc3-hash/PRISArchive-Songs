@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "Beautiful Day Outside",
+  "titleAsset": "storymenu/titles/weeks",
+  "props": [],
+  "background": "#00FFFF",
+  "songs": ["megalovania"],
+  "visible": false
+}

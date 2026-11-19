@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "Spams",
+  "titleAsset": "storymenu/titles/weekds",
+  "props": [],
+  "background": "#FF00F9",
+  "songs": ["despacito"],
+  "visible": false
+}

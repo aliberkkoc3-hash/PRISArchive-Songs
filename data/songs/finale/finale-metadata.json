@@ -1,0 +1,32 @@
+{
+ "version": "2.2.4",
+ "songName": "Finale",
+ "artist": "BF_Aliberk_BF",
+ "charter": "Prism Crew",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "auto"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": ""
+  },
+  "stage": "mainStage",
+  "noteStyle": "funkin",
+  "ratings": {
+   "auto": 7
+  },
+  "previewEnd": 0.2
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.6",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 95,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

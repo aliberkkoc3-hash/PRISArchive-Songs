@@ -1,0 +1,12 @@
+{
+  "title": "PRISArchive Songs",
+  "description": "Prism Crew Spam Charts And Normal Songs",
+  "contributors": [
+    {
+      "name": "Prism Crew"
+    }
+  ],
+  "api_version": "0.8.8",
+  "mod_version": "0.0.1",
+  "license": "PCSL"
+}

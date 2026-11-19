@@ -1,0 +1,30 @@
+{
+ "version": "2.2.4",
+ "songName": "Megalovania",
+ "artist": "BF_AliBerk_BF",
+ "charter": "Prism Crew",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "auto"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf"
+  },
+  "stage": "mainStage",
+  "noteStyle": "funkin",
+  "ratings": {
+   "auto": 20
+  }
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.6",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 136,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
